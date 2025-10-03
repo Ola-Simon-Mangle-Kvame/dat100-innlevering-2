@@ -62,19 +62,5 @@ public class Matriser {
         return true;
 
     }
-    // e)
-    public static int[][] speile(int[][] matrise) {
-
-        int[][] ferdig = new int[0][0];
-        return ferdig;
-    }
-
-    // f)
-    public static int[][] multipliser(int[][] a, int[][] b) {
-
-        int[][] ferdig = new int[0][0];
-        return ferdig;
-
-    }
 
 }
